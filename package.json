@@ -6,7 +6,7 @@
     "build": "quik --bundle index.js --output bundle.js --production",
     "dev": "quik",
     "test": "mocha --require setup.js *.spec.js",
-    "test-watch": "mocha --watch --require setup.js *.spec.js"
+    "test:watch": "mocha --watch --require setup.js *.spec.js"
   },
   "author": "Add your name here",
   "license": "ISC",
