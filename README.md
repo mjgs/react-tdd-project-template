@@ -1,6 +1,8 @@
 # react-tdd-project-template
 
 Simple boilerplate/template for building [React](https://facebook.github.io/react/) apps with [TDD](https://en.wikipedia.org/wiki/Test-driven_development).
+
+For something a bit more involved that's more configurable check out [react-webpack-project-template](https://github.com/mjgs/react-webpack-project-template).
   
 Uses [Quik](https://github.com/satya164/quik) for fast environment setup (webpack based)
   
